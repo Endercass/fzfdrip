@@ -36,9 +36,9 @@
       "aliases": []
     },
     {
-      "name": "chad",
-      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/dripcar/o/chad.mp4",
-      "aliases": []
+      "name": "gigachad",
+      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/dripcar/o/gigachad.mp4",
+      "aliases": ["chad"]
     },
     {
       "name": "counter_strike_global_offensive",
@@ -78,7 +78,7 @@
     {
       "name": "grand_theft_auto_iv",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/dripcar/o/grand_theft_auto_iv.webm",
-      "aliases": []
+      "aliases": ["gta"]
     },
     {
       "name": "half_life",

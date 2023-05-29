@@ -1,6 +1,6 @@
-# FZFShip
+# FZFDrip
 
-Cloudflare Worker that provides a fuzzy finder for fireship 100-seconds videos
+Cloudflare Worker that provides a fuzzy finder for drip car memes
 
 ## Authors
 
@@ -25,13 +25,13 @@ Responds with a webm video or an empty html file if nothing can be found
 Clone the project
 
 ```bash
-  git clone https://github.com/Endercass/fzfship.git
+  git clone https://github.com/Endercass/fzfdrip.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd fzfship
+  cd fzfdrip
 ```
 
 Install dependencies
@@ -52,12 +52,12 @@ To deploy this worker run
 
 ```bash
   # This assumes you already have wrangler set up with your credentials
-  npx wrangler publish src/index.js --name fzfship
+  npx wrangler publish src/index.js --name fzfdrip
 ```
 
 ## Roadmap
 
-- [x] Add all 100-seconds videos
+- [ ] Add more drip car memes
 
 - [ ] Add more aliases to ensure proper results
 

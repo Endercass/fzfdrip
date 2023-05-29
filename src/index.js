@@ -22,7 +22,7 @@ const invalidSearch = `<html>
   <meta charset="utf-8">
   <meta name="robots" content="noindex">
   <meta name="theme-color" content="">
-  <meta property="og:title" content="FZFShip">
+  <meta property="og:title" content="FZFDrip">
   <meta property="og:description" content="Invalid search.">
 </head>
 </html>`;

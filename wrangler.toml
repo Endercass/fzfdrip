@@ -1,6 +1,6 @@
-name = "fzfship"
+name = "fzfdrip"
 main = "src/index.js"
 compatibility_date = "2023-05-02"
 
 zone_id = "endercass.me"
-route = "https://fzfship.endercass.me/*"
+route = "https://drip.endercass.me/*"

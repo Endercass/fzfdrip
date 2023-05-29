@@ -18,7 +18,7 @@ const fuse = new Fuse(db.items, {
 
 const invalidSearch = `<html>
 <head>
-  <title>FZFShip</title>
+  <title>FZFDrip</title>
   <meta charset="utf-8">
   <meta name="robots" content="noindex">
   <meta name="theme-color" content="">
@@ -33,7 +33,7 @@ export default {
     switch (search) {
       case "gh":
       case "github":
-        return Response.redirect("https://github.com/Endercass/fzfship", 301);
+        return Response.redirect("https://github.com/Endercass/fzfdrip", 301);
       case "db":
       case "db.json":
         return new Response(JSON.stringify(db), {

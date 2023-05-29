@@ -5,7 +5,7 @@ let db = {
 };
 
 const base =
-  "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/";
+  "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/dripcar/o/";
 
 function buildItem(url) {
   let item = {};

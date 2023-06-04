@@ -6,6 +6,12 @@ Cloudflare Worker that provides a fuzzy finder for drip car memes
 
 - [@Endercass](https://www.github.com/Endercass)
 
+## File sources
+
+- [@desp](https://github.com/desplmfao) (Provided a large amount of drip cars via [gdrive](https://drive.google.com/drive/folders/1RS08NzZ6_OgLJxvqArKk0-DMjGRQRzcd?usp=sharing))
+
+- [Titanium Network](https://discord.gg/unblock) (Community provided many drip cars)
+
 ## API Reference
 
 #### Search for video
@@ -57,7 +63,7 @@ To deploy this worker run
 
 ## Roadmap
 
-- [ ] Add more drip car memes
+- [x] Add more drip car memes
 
 - [ ] Add more aliases to ensure proper results
 
